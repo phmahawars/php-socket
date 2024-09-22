@@ -8,6 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 vendor
+vendor25
 dist
 dist-ssr
 *.local
